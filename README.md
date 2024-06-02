@@ -36,10 +36,12 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Agent OS: LLM OS Micro Architecture for Composable, Reusable AI Agents - IndyDevDan](https://www.youtube.com/watch?v=8wSH4XukcH8)
 - [OS-World: Improving LLM Agent Operating Systems!](https://www.youtube.com/watch?v=zm1_Huwb26I)
 - [LLM OS with gpt-4o - Phidata](https://www.youtube.com/watch?v=6g2KLvwHZlU)
+- [LLM OS on AWS - Ashpreet Bedi](https://x.com/ashpreetbedi/status/1797320918274068700)
 
 ## Projects and Implementations
 - [MemGPT](https://github.com/cpacker/MemGPT)
 - [AIOS](https://github.com/agiresearch/AIOS)
+- [Phidata - Serving LLM OS on AWS](https://docs.phidata.com/templates/llm-os/run-local)
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
