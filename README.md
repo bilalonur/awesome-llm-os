@@ -29,6 +29,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
 - [Goodbye Windows, Hello LLMs: The Future of Operating Systems](https://medium.com/@ronaldmannak/goodbye-windows-hello-llms-the-future-of-operating-systems-7ba61ea03e8d)
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+- [The Rise of the LLM OS: From AIOS to MemGPT and beyond](https://community.aws/content/2eojjD2E7TBgPFJmB2FGAtrSSBh/the-rise-of-the-llm-os-from-aios-to-memgpt-and-beyond)
+- [What would an LLM OS look like?](https://campedersen.com/llm-os/)
 
 ## Videos and Talks
 - [Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
