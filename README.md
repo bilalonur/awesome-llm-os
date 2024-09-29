@@ -31,6 +31,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 - [The Rise of the LLM OS: From AIOS to MemGPT and beyond](https://community.aws/content/2eojjD2E7TBgPFJmB2FGAtrSSBh/the-rise-of-the-llm-os-from-aios-to-memgpt-and-beyond)
 - [What would an LLM OS look like?](https://campedersen.com/llm-os/)
+- [LLMs Are An Essential Kernel Process Of A New Operating System](https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system)
 
 ## Videos and Talks
 - [Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -47,6 +48,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
+- [Karpathy's LLM OS, what are your thoughts?](https://www.linuxquestions.org/questions/linux-general-1/karpathy%27s-llm-os-what-are-your-thoughts-4175741199/)
 
 ## Development Tools and Frameworks
 - 
