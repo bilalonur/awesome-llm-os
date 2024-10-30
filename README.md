@@ -14,7 +14,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Videos and Talks](#videos-and-talks)
 - [Projects and Implementations](#projects-and-implementations)
 - [Communities and Discussions](#communities-and-discussions)
-- [Models, Development Tools and Frameworks](#development-tools-and-frameworks)
+- [Models, Development Tools and Frameworks](#models-development-tools-and-frameworks)
 - [Performance and Optimization](#performance-and-optimization)
 - [Security](#security)
 - [Deployment](#deployment)
@@ -51,7 +51,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Karpathy's LLM OS, what are your thoughts?](https://www.linuxquestions.org/questions/linux-general-1/karpathy%27s-llm-os-what-are-your-thoughts-4175741199/)
 
 ## Models, Development Tools and Frameworks
-- [OmniParser: A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent](﻿﻿https://huggingface.co/microsoft/OmniParser)
+- [OmniParser: A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent](https://huggingface.co/microsoft/OmniParser)
 
 ## Performance and Optimization
 - 
