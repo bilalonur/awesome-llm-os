@@ -11,6 +11,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 ## Table of Contents
 - [Research Papers](#research-papers)
 - [Articles and Blog Posts](#articles-and-blog-posts)
+- [Development Interfaces](#development-interfaces)
 - [Videos and Talks](#videos-and-talks)
 - [Projects and Implementations](#projects-and-implementations)
 - [Communities and Discussions](#communities-and-discussions)
@@ -34,6 +35,9 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [LLMs Are An Essential Kernel Process Of A New Operating System](https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system)
 - [Gemini Powers tldraw's "Natural Language Computing" Experience](https://ai.google.dev/showcase/tldraw?hl=en)
 
+## Development Interfaces
+- [tldraw computer](https://computer.tldraw.com/) 
+
 ## Videos and Talks
 - [Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Build the LLM OS Autonomous LLMs as the new Operating System - Phidata](https://www.youtube.com/watch?v=YMZm7LdGQp8)
@@ -56,7 +60,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [OmniParser: A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent](https://huggingface.co/microsoft/OmniParser)
 
 ## Performance and Optimization
-- 
+-
 
 ## Security
 - 
