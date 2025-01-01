@@ -46,7 +46,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [MemGPT](https://github.com/cpacker/MemGPT)
 - [AIOS](https://github.com/agiresearch/AIOS)
 - [Phidata - Serving LLM OS on AWS](https://docs.phidata.com/templates/llm-os/run-local)
-- [tldraw computer](https://computer.tldraw.com/)
+- [Examples and Shares about tldraw computer](/examples/tldraw-computer-projects.md)
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
