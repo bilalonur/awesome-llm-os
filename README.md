@@ -32,6 +32,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [The Rise of the LLM OS: From AIOS to MemGPT and beyond](https://community.aws/content/2eojjD2E7TBgPFJmB2FGAtrSSBh/the-rise-of-the-llm-os-from-aios-to-memgpt-and-beyond)
 - [What would an LLM OS look like?](https://campedersen.com/llm-os/)
 - [LLMs Are An Essential Kernel Process Of A New Operating System](https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system)
+- [Gemini Powers tldraw's "Natural Language Computing" Experience](https://ai.google.dev/showcase/tldraw?hl=en)
 
 ## Videos and Talks
 - [Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -45,6 +46,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [MemGPT](https://github.com/cpacker/MemGPT)
 - [AIOS](https://github.com/agiresearch/AIOS)
 - [Phidata - Serving LLM OS on AWS](https://docs.phidata.com/templates/llm-os/run-local)
+- [tldraw computer](https://computer.tldraw.com/)
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
