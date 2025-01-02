@@ -34,6 +34,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [What would an LLM OS look like?](https://campedersen.com/llm-os/)
 - [LLMs Are An Essential Kernel Process Of A New Operating System](https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system)
 - [Gemini Powers tldraw's "Natural Language Computing" Experience](https://ai.google.dev/showcase/tldraw?hl=en)
+- [ScreenAI: A visual language model for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 
 ## Development Interfaces
 - [tldraw computer](https://computer.tldraw.com/) 
