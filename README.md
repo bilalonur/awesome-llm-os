@@ -55,6 +55,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Examples and Shares about tldraw computer](/examples/tldraw-computer-projects.md)
 - [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
 - [GCA: GPT Computer Assistant](https://github.com/Upsonic/gpt-computer-assistant)
+- [UI-TARS Desktop: A GUI Agent application for controling computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
