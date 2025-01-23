@@ -36,6 +36,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Gemini Powers tldraw's "Natural Language Computing" Experience](https://ai.google.dev/showcase/tldraw?hl=en)
 - [ScreenAI: A visual language model for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 - [Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326)
+- [Introducing Operator](https://openai.com/index/introducing-operator/)
 
 ## Development Interfaces
 - [tldraw computer](https://computer.tldraw.com/) 
