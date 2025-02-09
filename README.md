@@ -37,6 +37,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [ScreenAI: A visual language model for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 - [Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326)
 - [Introducing Operator](https://openai.com/index/introducing-operator/)
+- [Antrophic - Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
 ## Development Interfaces
 - [tldraw computer](https://computer.tldraw.com/) 
