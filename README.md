@@ -42,7 +42,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Antrophic - Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
 ## Development Interfaces
-- [tldraw computer](https://computer.tldraw.com/) 
+- [tldraw computer](https://computer.tldraw.com/)
+- [Pig: Operate Windows Apps With AI](https://www.pig.dev/)
 
 ## Videos and Talks
 - [Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
