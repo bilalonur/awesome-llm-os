@@ -27,6 +27,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 - [CogVLM2: Visual Language Models for Image and Video Understanding](https://arxiv.org/pdf/2408.16500)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)
+- [Lightweight Neural App Control](https://arxiv.org/pdf/2410.17883)
 
 ## Articles and Blog Posts
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
