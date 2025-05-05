@@ -55,7 +55,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [LLM OS on AWS - Ashpreet Bedi](https://x.com/ashpreetbedi/status/1797320918274068700)
 
 ## Projects and Implementations
-- [MemGPT](https://github.com/cpacker/MemGPT)
+- [Letta (formerly MemGPT)](https://github.com/letta-ai/letta)
 - [AIOS](https://github.com/agiresearch/AIOS)
 - [Phidata - Serving LLM OS on AWS](https://docs.phidata.com/templates/llm-os/run-local)
 - [Examples and Shares about tldraw computer](/examples/tldraw-computer-projects.md)
