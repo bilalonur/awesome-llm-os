@@ -29,7 +29,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [CogVLM2: Visual Language Models for Image and Video Understanding](https://arxiv.org/pdf/2408.16500)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)
 - [Lightweight Neural App Control](https://arxiv.org/pdf/2410.17883)
-
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456)
+  
 ## Articles and Blog Posts
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
 - [Goodbye Windows, Hello LLMs: The Future of Operating Systems](https://medium.com/@ronaldmannak/goodbye-windows-hello-llms-the-future-of-operating-systems-7ba61ea03e8d)
