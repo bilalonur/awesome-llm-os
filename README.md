@@ -30,6 +30,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)
 - [Lightweight Neural App Control](https://arxiv.org/pdf/2410.17883)
 - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456)
+- [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
   
 ## Articles and Blog Posts
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
