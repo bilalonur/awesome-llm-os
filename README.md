@@ -68,6 +68,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Magnitude: Open source AI agents for web testing](https://github.com/magnitudedev/magnitude)
 - [BLAST: Browser-LLM Auto-Scaling Technology](https://github.com/stanford-mast/blast)
 - [Open Computer Use](https://github.com/LLmHub-dev/open-computer-use)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
