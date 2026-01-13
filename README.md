@@ -26,10 +26,10 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 ## Research Papers
 - [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-- [CogVLM2: Visual Language Models for Image and Video Understanding](https://arxiv.org/pdf/2408.16500)
+- [CogVLM2: Visual Language Models for Image and Video Understanding](https://arxiv.org/abs/2408.16500)
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)
-- [Lightweight Neural App Control](https://arxiv.org/pdf/2410.17883)
-- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456)
+- [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883)
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
   
 ## Articles and Blog Posts
