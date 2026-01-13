@@ -31,6 +31,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883)
 - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
+- [OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization](https://arxiv.org/abs/2410.19609)
   
 ## Articles and Blog Posts
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
