@@ -32,7 +32,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
 - [OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization](https://arxiv.org/abs/2410.19609)
-  
+- [NEOS: A Neural Field Operating System for Machine Intelligence](https://samuele95.github.io/neos/neos-paper.pdf)
+
 ## Articles and Blog Posts
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
 - [Goodbye Windows, Hello LLMs: The Future of Operating Systems](https://medium.com/@ronaldmannak/goodbye-windows-hello-llms-the-future-of-operating-systems-7ba61ea03e8d)
@@ -44,7 +45,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [ScreenAI: A visual language model for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 - [Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326)
 - [Introducing Operator](https://openai.com/index/introducing-operator/)
-- [Antrophic - Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
+- [Anthropic - Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
+- [NEOS Breakthrough: The First OS Where the Machine Is Language](https://samuele95.github.io/neos/NEOS-BREAKTHROUGH.html)
 
 ## Development Interfaces
 - [tldraw computer](https://computer.tldraw.com/)
@@ -71,6 +73,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Open Computer Use](https://github.com/LLmHub-dev/open-computer-use)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [memU: 24/7 Always-On Proactive Memory for AI Agents](https://github.com/NevaMind-AI/memU)
+- [NEOS](https://github.com/Samuele95/neos) - Neural Field Operating System that manages meaning as its computational primitive, treating LLMs as virtual machines with shell-based cognitive computing.
 
 ## Communities and Discussions
 - [LLM Agent Operating System - Rutgers University 2024 - AIOS](https://www.reddit.com/r/LocalLLaMA/comments/1bod1jt/llm_agent_operating_system_rutgers_university/)
