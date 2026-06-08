@@ -79,6 +79,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 ## MCP Servers
 - [Desktop Commander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity and autonomy score before authorizing x402 micropayments in LLM OS agent pipelines. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Models, Development Tools and Frameworks
 - [OmniParser: A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent](https://huggingface.co/microsoft/OmniParser)
 
