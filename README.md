@@ -80,6 +80,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Desktop Commander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 ## Models, Development Tools and Frameworks
+- [Fugusashi](https://github.com/eulogik/fugusashi) - Open-source intelligent model router with CMA-ES evolved routing weights, federated learning, and human-interpretable explanations.
 - [OmniParser: A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent](https://huggingface.co/microsoft/OmniParser)
 
 ## Performance and Optimization
