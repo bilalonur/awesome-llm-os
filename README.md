@@ -46,6 +46,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Introducing Operator](https://openai.com/index/introducing-operator/)
 - [Antrophic - Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
+- [Where open source lives across eleven AI Operating System claimants](https://opensourceaioperatingsystem.com/open-source-ai-operating-system-compared) - a dated, source-linked comparison of what eleven products that use the AI Operating System name actually keep (repo, context store, spec kit, vendor account, VPC runtime, unreleased code), and the question that decides a purchase: what a company still holds when the contract ends.
+
 ## Development Interfaces
 - [tldraw computer](https://computer.tldraw.com/)
 - [Pig: Operate Windows Apps With AI](https://www.pig.dev/)
